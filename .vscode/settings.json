@@ -1,0 +1,6 @@
+{
+    "python.languageServer": "Jedi",
+    "python.autoComplete.extraPaths": [],
+    "pyqt-integration.qtdesigner.path": "\"D:\\miniconda\\envs\\pytorch2\\Lib\\site-packages\\PySide6\\designer.exe\"",
+    "pyqt-integration.pyuic.cmd": "\"D:\\miniconda\\envs\\pytorch2\\Scripts\\pyside6-uic.exe\""
+}
